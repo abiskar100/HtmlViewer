@@ -81,12 +81,12 @@ Create a Feature Branch
 
 तपाइँको फिचर वा फिक्सका लागि नयाँ ब्रान्च बनाउनुहोस्:
 
-<<<<<<< HEAD
+
 ```bash
 git checkout -b feature-branch
 ```
 Make Your Changes
-=======
+
 5. Ensure Port 8080 is Free  
    Before running the program, make sure that port 8080 (or whichever port you're using) is not already occupied. To check and kill any processes using the port:
     ```bash
@@ -96,7 +96,7 @@ Make Your Changes
    sudo kill -9 <PID>  # Replace <PID> with the process ID using port 8080
     ```
 6. Prepare your files: Ensure the project directory contains the essential files: `index.html`, and `style.css`,
->>>>>>> 1f51a11927ffaa68075be1dae4ac786e53ff4170
+
 
 तपाइँका सुधारहरू वा बग फिक्सहरू लागू गर्नुहोस्।
 Commit Your Work
