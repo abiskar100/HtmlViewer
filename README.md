@@ -38,7 +38,7 @@ Follow the steps below to install and use the HTML Viewer:
    ```bash
    sudo kill -9 <PID>  # Replace <PID> with the process ID using port 8080
     ```
-6. Prepare your files: Ensure the project directory contains the essential files: `index.html`, `style.css`, and `script.js`.
+6. Prepare your files: Ensure the project directory contains the essential files: `index.html`, and `style.css`,
 
 7. Run the Viewer: In the project directory, simply execute the following command:
     ```bash
